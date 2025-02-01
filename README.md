@@ -36,6 +36,17 @@ This is a simple **E-Voting System** built using **HTML, CSS, and JavaScript**. 
 🔐 Blockchain Security – Ensure secure and transparent voting
 🎨 UI/UX Improvements – Better animations and accessibility
 
+## Team Members 👥
+
+- **Suyash Kakade (Me)** - [GitHub Profile](https://github.com/Suyash121212)
+- **Harshal Laware** - [GitHub Profile](https://github.com/)
+- **Nikhil Gaikwad** - [GitHub Profile](https://github.com/member2)
+- **Suraj Khaire** - [GitHub Profile](https://github.com/member3)
+- **Avinash Kshirsagar** - [GitHub Profile](https://github.com/member3)
+
+We worked together on developing the **E-Voting System** . 🚀
+
+
 📸 Screenshots: 
 
 🎥 Live Demo :
