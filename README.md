@@ -42,7 +42,7 @@ This is a simple **E-Voting System** built using **HTML, CSS, and JavaScript**. 
 - **Harshal Laware** - [GitHub Profile](https://github.com/)
 - **Nikhil Gaikwad** - [GitHub Profile](https://github.com/member2)
 - **Suraj Khaire** - [GitHub Profile](https://github.com/member3)
-- **Avinash Kshirsagar** - [GitHub Profile](https://github.com/member3)
+- **Avinash Kshirsagar** - [GitHub Profile](https://github.com/kavinash2j)
 
 We worked together on developing the **E-Voting System** . 🚀
 
